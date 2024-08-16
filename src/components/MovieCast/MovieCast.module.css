@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 36px 8px;
+  list-style-type: none;
+}
+
+.listImg {
+  width: 100px;
+  border-radius: 4px;
+}

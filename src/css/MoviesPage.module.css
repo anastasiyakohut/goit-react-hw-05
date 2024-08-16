@@ -1,0 +1,19 @@
+.container {
+  margin: 10px;
+}
+
+.form {
+  padding: 10px;
+  text-align: center;
+}
+
+.formInput {
+  margin-right: 24px;
+  padding: 8px;
+  border-radius: 4px;
+  width: 350px;
+}
+
+.formBtn {
+  border-color: black;
+}

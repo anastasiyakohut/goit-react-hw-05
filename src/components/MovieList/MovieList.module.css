@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+}
+.list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 26px 20px;
+  padding: 20px;
+  width: 100%;
+  color: black;
+}
+
+.imgFilmPoster {
+  width: 260px;
+}
+
+.movieTitle {
+  margin-top: 0;
+  margin-bottom: 16px;
+}

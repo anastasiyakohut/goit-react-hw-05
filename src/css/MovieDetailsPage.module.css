@@ -1,0 +1,24 @@
+.container {
+  padding: 24px;
+}
+
+.goBackBtn {
+  margin-bottom: 10px;
+}
+
+.imgMoviePoster {
+  width: 250px;
+}
+
+.aboutMovie {
+  display: flex;
+  gap: 24px;
+}
+
+.titleName {
+  margin-bottom: 16px;
+}
+
+.loading {
+  text-align: center;
+}
